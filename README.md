@@ -1,4 +1,2 @@
 # test
-Chawnima
-purnama tolol
-asasfasfsf
+Chawnimaasgasgasg
