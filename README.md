@@ -1,2 +1,2 @@
 # test
-testing halooooo
+halo minna san konichiwa
