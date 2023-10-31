@@ -1,2 +1,2 @@
 # test
-hello world -h
+halo minna san konichiwa
